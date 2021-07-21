@@ -24,6 +24,8 @@ Objetivos Específicos
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/MARCO%20TEORICO%209(1)_page-0001.jpg)
 
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/MARCO%20TEORICO%2010_page-0001.jpg)
+
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 CAPITULO 9
