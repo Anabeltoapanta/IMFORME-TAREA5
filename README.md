@@ -249,11 +249,18 @@ voltaje en él, según se aplique a cada uno de los siguientes incisos:
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE1-2.png)
 
+3.La carga en un capacitor de 50 μF es de 10 × 10^-3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
+
+![image](https://user-images.githubusercontent.com/85134094/126439682-5bdb11cd-a7b6-40c4-a146-56de4c13c394.png)
 
 5. Se carga un capacitor 5 μF con 150 V. Su compañero de laboratorio momentáneamente
 pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE5.png)
+
+7.Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
+
+![image](https://user-images.githubusercontent.com/85134094/126439838-d129b2ac-a653-4f38-a9bd-f24acba8c7b7.png)
 
 10-2 Factores que afectan la capacitancia
 
@@ -261,6 +268,10 @@ pone un resistor a través de sus terminales y drena suficiente carga para que e
 entre las placas es de 0.1 mm, ¿cuál es el área de las placas?
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE9.png)
+
+11.Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 _F. Un segundo capacitor con dimensiones físicas idénticas, pero con un dieléctrico de mylar lleva una carga de 55×10^(-4)C. ¿Cuál es su voltaje?
+
+![image](https://user-images.githubusercontent.com/85134094/126439938-274f2e72-c49a-49eb-a061-e1199b8a501a.png)
 
 10-3 Campos eléctricos
 
@@ -273,12 +284,21 @@ b. ¿Cuál es campo eléctrico al doble de la distancia?
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE13B.png)
 
+15.Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
+
+![image](https://user-images.githubusercontent.com/85134094/126440010-0b1e126f-ff9b-41af-9872-6e672821d598.png)
+
 17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican
 E volts. La mica se remueve y el espacio entre las placas se duplica. Si la
 ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE19.png)
 
+19.La ﬁgura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos aﬁlados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
+
+![image](https://user-images.githubusercontent.com/85134094/126440083-cf3971c0-46a8-4f66-8605-b1ffd12e3f85.png)
+
+![image](https://user-images.githubusercontent.com/85134094/126440086-c9ead197-6bf7-4f99-8591-8b3b71c5d470.png)
 
 10-5 Efectos no ideales
 
@@ -290,9 +310,19 @@ a 50℃?. ¿Cuál será el nuevo valor?
 
 10-7 Capacitores en paralelo y en serie
 
+23.Si un capacitor de 4.7 cambia a 4.8 µF cuando la temperatura aumenta a 40°C, ¿Cuál es el coeficiente de temperatura?
+
+![image](https://user-images.githubusercontent.com/85134094/126440136-98ae3630-791a-45ed-ab8d-cf33e3f64192.png)
+
 25. Repita el problema 23 si los capacitores están conectados en serie
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE25.png)
+
+27.Determine CT para cada uno de los circuitos de la figura 10-33.
+
+![image](https://user-images.githubusercontent.com/85134094/126440210-9a5eb76b-f09c-4012-97d5-630ff63f228d.png)
+
+![image](https://user-images.githubusercontent.com/85134094/126440220-2984578e-8613-421d-8996-74c824b60a2e.png)
 
 29. Un capacitor de 30 μF se conecta en paralelo con un capacitor de 60μ F, y
 otro de 10 μF se conecta en serie con la combinación en paralelo. Cuál es el
@@ -300,10 +330,18 @@ valor de CT?
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE29.png)
 
+31.Para la figura 10-36, determine C3 y C4.
+
+![image](https://user-images.githubusercontent.com/85134094/126440301-4afdacbc-6ba6-4a31-be9e-732454471284.png)
+
 33. Se tienen capacitores de 22, 47, 2.2 y 10 μF. Cuál es la capacitancia equivalente
 más grande que se puede obtener conectándolos de la manera que usted prefiera? ¿Y la más pequeña?
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE33.png)
+
+35.Considere capacitores de 1, 1.5 y 10 uF. Si CT = 10-6 uF, ¿cómo están conectados los capacitores?
+
+![image](https://user-images.githubusercontent.com/85134094/126440371-28f54ebd-5f61-4ffb-88f6-54c635028ca5.png)
 
 37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se
 aplican 100 V en las terminales a-b.
@@ -316,15 +354,31 @@ D) PARALELO
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE37-1.png)
 
+39.Repita el problema 38 para el circuito de la figura 10-39.
+
+![image](https://user-images.githubusercontent.com/85134094/126440464-928eda4c-193b-450b-863a-fb62c3084485.png)
+
+![image](https://user-images.githubusercontent.com/85134094/126440471-7deda3a8-c795-4942-8fad-7aba289e796c.png)
+
 41. Para la figura 10-41, determine Cx.
 
 
-45. Si el voltaje en un capacitor de 4.7 μF es Vic =100e_0.05t V, .qué valor tiene
-iC?
+43.El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente ic a escala con valores numérico.
 
+![image](https://user-images.githubusercontent.com/85134094/126440537-b94e29d4-c22b-40eb-b33f-0b888a19dd44.png)
+
+![image](https://user-images.githubusercontent.com/85134094/126440547-4e341f8b-a43f-492b-b9c2-17df4b1087fc.png)
+
+45. Si el voltaje en un capacitor de 4.7 μF es Vic = 100e_0.05t V, .qué valor tiene
+iC?
 
 10-10 Fallas en el capacitor y solución de problemas
 
+47.Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms.
+
+![image](https://user-images.githubusercontent.com/85134094/126440648-77e45eeb-307c-4748-8ef8-ac4b0b3aa363.png)
+
+![image](https://user-images.githubusercontent.com/85134094/126440660-b6c562ed-2bde-41d9-b50b-9be9680c59f7.png)
 
 49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
 
@@ -345,13 +399,9 @@ C)	C2 ESTA EN CORTO
 El voltaje excesivo puede dar lugar a una perforación que crea pequeños agujeros y ponen en corto las placas.
 
 
-
-
-
 **4.VIDEO**
 
 link del video :
-
 
 
 **5.CONCLUSIONES**
