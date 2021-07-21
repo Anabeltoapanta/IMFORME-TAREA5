@@ -34,6 +34,8 @@ voltaje en él, según se aplique a cada uno de los siguientes incisos:
 5. Se carga un capacitor 5 μF con 150 V. Su compañero de laboratorio momentáneamente
 pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
 
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE5.png)
+
 10-2 Factores que afectan la capacitancia
 
 9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación
