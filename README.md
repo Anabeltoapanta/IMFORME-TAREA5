@@ -109,6 +109,23 @@ iC?
 
 49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
 
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE49...png)
+
+A)	C3 ESTA EN CORTO
+
+El voltaje excesivo puede dar lugar a una perforación que crea pequeños agujeros y ponen en corto las placas.
+
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE49..1.png)
+
+B)	C2 ESTA ABIERTO
+
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE49..2.png)
+
+C)	C2 ESTA EN CORTO
+
+El voltaje excesivo puede dar lugar a una perforación que crea pequeños agujeros y ponen en corto las placas.
+
+
 
 
 
