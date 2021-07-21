@@ -61,6 +61,12 @@ ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE19.png)
 
 
+10-5 Efectos no ideales
+
+21. Un capacitor de 25μF tiene un coeficiente de temperatura negativo de 175
+ppm/℃ . Por cuanto y en que dirección podrá variar si la temperatura aumenta
+a 50℃?. ¿Cuál será el nuevo valor?
+
 
 **4.VIDEO**
 
