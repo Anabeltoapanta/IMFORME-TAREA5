@@ -13,7 +13,7 @@ AUTORES :
 
 Objetivo General
 
-
+Identificar cuando es prudente utilizar cada metodo de resolucion para sistemas electricos
 
 
 Objetivos Específicos
