@@ -99,10 +99,11 @@ aplican 100 V en las terminales a-b.
 
 C) SERIE
 
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE37.png)
 
 D) PARALELO
 
-
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE37-1.png)
 
 41. Para la figura 10-41, determine Cx.
 
