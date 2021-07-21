@@ -92,6 +92,7 @@ valor de CT?
 33. Se tienen capacitores de 22, 47, 2.2 y 10 μF. Cuál es la capacitancia equivalente
 más grande que se puede obtener conectándolos de la manera que usted prefiera? ¿Y la más pequeña?
 
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE33.png)
 
 37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se
 aplican 100 V en las terminales a-b.
