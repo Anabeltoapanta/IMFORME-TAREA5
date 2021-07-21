@@ -97,6 +97,12 @@ más grande que se puede obtener conectándolos de la manera que usted prefiera?
 37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se
 aplican 100 V en las terminales a-b.
 
+C) SERIE
+
+
+D) PARALELO
+
+
 
 41. Para la figura 10-41, determine Cx.
 
