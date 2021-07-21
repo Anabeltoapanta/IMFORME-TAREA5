@@ -18,7 +18,11 @@ Identificar cuando es prudente utilizar cada metodo de resolucion para sistemas 
 
 Objetivos Específicos
 
+Establecer el método de resolución de sistemas electrónicos con capacitores
 
+Definir la capacidad de los capacitores antes de que sufran una ruptura.
+
+Distinguir las formulas para la resolucion de capacitores con las formulas para la resolucion de resistores
 
 **2.MARCO TEÓRICO**
 
@@ -415,6 +419,9 @@ link del video :
 
 **5.CONCLUSIONES**
 
+En conclucion podemos observar que la resolucion de los capacitores es bastante diferente a la de los resistores, ya que para la resolución de capacitores en serie es el mismo método que para resolver resistores en paralelo, y viceversa .
+
+Por otro lado para resolver circuitos por el teorema de superposicion y sus derivadas es muy importante tener en cuenta que las fuentes de voltaje se deben hacer corto circuito y para las de amperaje se debe hacer un sistema abierto.
 
 **6.BIBLIOGRAFÍA**
 
