@@ -58,7 +58,7 @@ b. ¿Cuál es campo eléctrico al doble de la distancia?
 E volts. La mica se remueve y el espacio entre las placas se duplica. Si la
 ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
 
-
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE19.png)
 
 
 
