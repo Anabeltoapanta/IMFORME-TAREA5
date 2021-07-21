@@ -373,6 +373,12 @@ D) PARALELO
 45. Si el voltaje en un capacitor de 4.7 μF es Vic = 100e_0.05t V, .qué valor tiene
 iC?
 
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE45.png)
+
+PARA T =1s
+
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE45-1.png)
+
 10-10 Fallas en el capacitor y solución de problemas
 
 47.Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms.
