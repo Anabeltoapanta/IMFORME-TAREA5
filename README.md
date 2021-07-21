@@ -75,6 +75,22 @@ ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
 ppm/℃ . Por cuanto y en que dirección podrá variar si la temperatura aumenta
 a 50℃?. ¿Cuál será el nuevo valor?
 
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE21.png)
+
+10-7 Capacitores en paralelo y en serie
+
+25. Repita el problema 23 si los capacitores están conectados en serie
+
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE25.png)
+
+29. Un capacitor de 30 μF se conecta en paralelo con un capacitor de 60μ F, y
+otro de 10 μF se conecta en serie con la combinación en paralelo. Cuál es el
+valor de CT?
+
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE29.png)
+
+
+
 
 **4.VIDEO**
 
