@@ -89,6 +89,26 @@ valor de CT?
 
 ![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE29.png)
 
+33. Se tienen capacitores de 22, 47, 2.2 y 10 μF. Cuál es la capacitancia equivalente
+más grande que se puede obtener conectándolos de la manera que usted prefiera? ¿Y la más pequeña?
+
+
+37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se
+aplican 100 V en las terminales a-b.
+
+
+41. Para la figura 10-41, determine Cx.
+
+
+45. Si el voltaje en un capacitor de 4.7 μF es Vic =100e_0.05t V, .qué valor tiene
+iC?
+
+
+10-10 Fallas en el capacitor y solución de problemas
+
+
+49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
+
 
 
 
