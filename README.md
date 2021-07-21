@@ -41,11 +41,18 @@ pone un resistor a través de sus terminales y drena suficiente carga para que e
 9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación
 entre las placas es de 0.1 mm, ¿cuál es el área de las placas?
 
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE9.png)
 
 10-3 Campos eléctricos
+
 13. a. Cuál es la intensidad del campo eléctrico  a una distancia de 1 cm de
 una carga de 100 mC en aceite?  
 
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE13A.png)
+
+b. ¿Cuál es campo eléctrico al doble de la distancia?
+
+![](https://github.com/Anabeltoapanta/IMFORME-TAREA5/blob/main/CAPITULO10/EJE13B.png)
 
 17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican
 E volts. La mica se remueve y el espacio entre las placas se duplica. Si la
